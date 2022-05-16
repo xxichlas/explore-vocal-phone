@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelled</folder>
+	<filename>T.343d4a25-d504-11ec-9706-f3ad391970f6.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\non vocal phone\labelled\T.343d4a25-d504-11ec-9706-f3ad391970f6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1671</xmin>
+			<ymin>1532</ymin>
+			<xmax>2207</xmax>
+			<ymax>2332</ymax>
+		</bndbox>
+	</object>
+</annotation>
