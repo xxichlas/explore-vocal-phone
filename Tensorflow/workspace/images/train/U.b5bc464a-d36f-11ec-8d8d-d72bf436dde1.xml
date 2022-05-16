@@ -1,13 +1,13 @@
 <annotation>
-	<folder>combined</folder>
+	<folder>remove bg</folder>
 	<filename>U.b5bc464a-d36f-11ec-8d8d-d72bf436dde1.jpg</filename>
-	<path>C:\workspaces\explore_sdd_sibi\collected\phone\combined\U.b5bc464a-d36f-11ec-8d8d-d72bf436dde1.jpg</path>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\remove bg\U.b5bc464a-d36f-11ec-8d8d-d72bf436dde1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2448</width>
-		<height>3264</height>
+		<width>433</width>
+		<height>577</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1382</xmin>
-			<ymin>1828</ymin>
-			<xmax>1703</xmax>
-			<ymax>2475</ymax>
+			<xmin>241</xmin>
+			<ymin>323</ymin>
+			<xmax>300</xmax>
+			<ymax>441</ymax>
 		</bndbox>
 	</object>
 </annotation>

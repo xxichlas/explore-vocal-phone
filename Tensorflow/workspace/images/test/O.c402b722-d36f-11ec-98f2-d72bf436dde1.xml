@@ -1,7 +1,7 @@
 <annotation>
 	<folder>remove bg</folder>
-	<filename>O.c402b721-d36f-11ec-be91-d72bf436dde1.jpg</filename>
-	<path>C:\workspaces\explore_sdd_sibi\collected\phone\remove bg\O.c402b721-d36f-11ec-be91-d72bf436dde1.jpg</path>
+	<filename>O.c402b722-d36f-11ec-98f2-d72bf436dde1.jpg</filename>
+	<path>C:\workspaces\explore_sdd_sibi\collected\phone\remove bg\O.c402b722-d36f-11ec-98f2-d72bf436dde1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>255</xmin>
-			<ymin>317</ymin>
-			<xmax>350</xmax>
-			<ymax>422</ymax>
+			<xmin>264</xmin>
+			<ymin>272</ymin>
+			<xmax>365</xmax>
+			<ymax>388</ymax>
 		</bndbox>
 	</object>
 </annotation>
